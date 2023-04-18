@@ -8,7 +8,7 @@ This is my Portfolio Guide where I provide documentation to my data analytics pr
 
 What follows is an ongoing work-in-progress. As I continue to work on a variety of data sets, I’ll be adding them here along with my own unique perspective on how to tackle each project, so be sure to check back often.
 
-I’m always available to chat at [LinkedIn](https://www.linkedin.com/in/ patricio-kobek/) about my work, so feel free to reach out.
+I’m always available to chat at [LinkedIn](https://www.linkedin.com/in/patricio-kobek/) about my work, so feel free to reach out.
 
 ## :clipboard: Table of Contents
 - [SQL](#sql)
@@ -31,8 +31,8 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
-| :maple_leaf: [Canadian Liquid Natural Gas (LNG) Import and Export Trends] | I analyse the import and export of Canadian Liquid Natural Gas from 2009 to the present, providing a Tableau dashboard to visualize the trends in this important national sector. | [Link]( https://public.tableau.com/views/CanadaLNG/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) |
-| :medical_symbol: [Covid-19 Worldwide Trends] | This guided project and Tableau dashboard show the ongoing trends relating to Covid-19 infection rates, deaths, and vaccinations since the beginning of the pandemic with projections for the following year. | [Link](https://public.tableau.com/views/PortfolioProject1_Covid/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) |
+| :maple_leaf: Canadian Liquid Natural Gas (LNG) Import and Export Trends | I analyse the import and export of Canadian Liquid Natural Gas from 2009 to the present, providing a Tableau dashboard to visualize the trends in this important national sector. | [Link]( https://public.tableau.com/views/CanadaLNG/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) |
+| :medical_symbol: Covid-19 Worldwide Trends | This guided project and Tableau dashboard show the ongoing trends relating to Covid-19 infection rates, deaths, and vaccinations since the beginning of the pandemic with projections for the following year. | [Link](https://public.tableau.com/views/PortfolioProject1_Covid/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) |
 
 ***
 # Python
