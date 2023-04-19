@@ -41,4 +41,8 @@ Python is the programming language I am currently learning. Check back for indiv
 # Patricio’s Guides
 As a lifelong educator I am committed to the principles of Open Educational Resources (OER) and strive to provide materials for teaching, learning, and research that are freely accessible, openly licensed, and can be used, changed, or shared by anyone. Projects found above will eventually be added to this section with detailed step-by-step documentation to help others develop their analytic toolkits.
 
+| Project Name | Description | Notes |
+|---|---|---|
+| :skull: [SQL Murder Mystery](https://github.com/PatricioKobek/DataAnalyticsProjects/blob/f769a4d227b2d8c283c3ce8aa50b3b058df3f098/Solution_to_SQL_Murder_Mystery) | The [SQL Murder Mystery]( https://mystery.knightlab.com/) is a great activity to do after learning a bit of the basics. Following the steps below will help reveal the killer and solve the case! | |  
+
 ***
