@@ -12,7 +12,7 @@ I’m always available to chat at [LinkedIn](https://www.linkedin.com/in/patrici
 
 ## :clipboard: Table of Contents
 - [SQL](#sql)
-- [Tableau](#tableau)
+- [Tableau and Excel](#Tableau-and-Excel)
 - [Python – Coming Soon](#python)
 - [Patricio’s Guides](#patricios-guides)
 
@@ -27,7 +27,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 ***
 
-# Tableau or Excel
+# Tableau and Excel
 
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
