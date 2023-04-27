@@ -27,12 +27,13 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 ***
 
-# Tableau
+# Tableau or Excel
 
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
 | :maple_leaf: Canadian Liquid Natural Gas (LNG) Import and Export Trends | I analyse the import and export of Canadian Liquid Natural Gas from 2009 to the present, providing a Tableau dashboard to visualize the trends in this important national sector. | [Link]( https://public.tableau.com/views/CanadaLNG/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) |
 | :medical_symbol: Covid-19 Worldwide Trends | This guided project and Tableau dashboard show the ongoing trends relating to Covid-19 infection rates, deaths, and vaccinations since the beginning of the pandemic with projections for the following year. | [Link](https://public.tableau.com/views/PortfolioProject1_Covid/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) |
+| :bookmark: Canadian students in official languages programs (Nationwide, Provincewide, Alberta decrease) | This XLSX file showcases briefly the number of Canadian students in official languages programs (Nationwide, Provincewide, Alberta decrease) from 2006 to 2020 | [Link](https://github.com/PatricioKobek/Canadian-students-in-official-languages-programs-2006-to-2020.git) |
 
 ***
 # Python
