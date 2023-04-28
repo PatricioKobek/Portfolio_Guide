@@ -14,7 +14,7 @@ I’m always available to chat at [LinkedIn](https://www.linkedin.com/in/patrici
 - [SQL](#sql)
 - [Tableau and Excel](#Tableau-and-Excel)
 - [Python – Coming Soon](#python)
-- [Technical Writing Samples](#technical-writing)
+- [Technical Writing Samples](#technical-writing-samples)
 - [Patricio’s Guides](#patricios-guides)
 
 # SQL
