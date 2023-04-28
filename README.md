@@ -14,6 +14,7 @@ I’m always available to chat at [LinkedIn](https://www.linkedin.com/in/patrici
 - [SQL](#sql)
 - [Tableau and Excel](#Tableau-and-Excel)
 - [Python – Coming Soon](#python)
+- [Technical Writing Samples](#technical-writing)
 - [Patricio’s Guides](#patricios-guides)
 
 # SQL
@@ -39,11 +40,18 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 # Python
 Python is the programming language I am currently learning. Check back for individual and guided projects you can use for your own portfolio in the future.
 
+# Technical Writing Samples
+Technical writing is an important skill I strive to improve upon in order to provide clear, concise, and accurate documentation of technical processes, procedures, and instructions that can be easily understood by the intended audience.
+
+| Project Name | Description | Notes |
+|---|---|---|
+| :skull: [SQL Murder Mystery](https://github.com/PatricioKobek/technical-writing/blob/e82ad560996f89911c82a67032caed258afefe13/Technical%20Writing%20Sample_SQL%20Murder%20Mystery.pdf) | The [SQL Murder Mystery]( https://mystery.knightlab.com/) is a great activity to do after learning a bit of the basics. This is a straightforward, simple walkthrough that can help solve the problem, perfect for those who are familiar with the basics of SQL and need a hand. | |  
+
 # Patricio’s Guides
 As a lifelong educator I am committed to the principles of Open Educational Resources (OER) and strive to provide materials for teaching, learning, and research that are freely accessible, openly licensed, and can be used, changed, or shared by anyone. Projects found above will eventually be added to this section with detailed step-by-step documentation to help others develop their analytic toolkits.
 
 | Project Name | Description | Notes |
 |---|---|---|
-| :skull: [SQL Murder Mystery](https://github.com/PatricioKobek/DataAnalyticsProjects/blob/f769a4d227b2d8c283c3ce8aa50b3b058df3f098/Solution_to_SQL_Murder_Mystery) | The [SQL Murder Mystery]( https://mystery.knightlab.com/) is a great activity to do after learning a bit of the basics. Following the steps below will help reveal the killer and solve the case! | |  
+| :skull: [SQL Murder Mystery](https://github.com/PatricioKobek/DataAnalyticsProjects/blob/f769a4d227b2d8c283c3ce8aa50b3b058df3f098/Solution_to_SQL_Murder_Mystery) | The [SQL Murder Mystery]( https://mystery.knightlab.com/) solution can be found here with some documentation regarding the process used to complete the problem. | |  
 
 ***
