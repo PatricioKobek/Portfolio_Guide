@@ -45,7 +45,7 @@ Technical writing is an important skill I strive to improve upon in order to pro
 
 | Project Name | Description | Notes |
 |---|---|---|
-| :skull: [SQL Murder Mystery](https://github.com/PatricioKobek/technical-writing/blob/e82ad560996f89911c82a67032caed258afefe13/Technical%20Writing%20Sample_SQL%20Murder%20Mystery.pdf) | The [SQL Murder Mystery]( https://mystery.knightlab.com/) is a great activity to do after learning a bit of the basics. This is a straightforward, simple walkthrough that can help solve the problem, perfect for those who are familiar with the basics of SQL and need a hand. | |  
+| :skull: [SQL Murder Mystery](https://github.com/PatricioKobek/technical-writing/blob/0673126abf3bb4b944798204a17045f06d60dbf2/Technical%20Writing%20Sample__Patricio%20Kobek_SQL%20Murder%20Mystery.pdf) | The [SQL Murder Mystery]( https://mystery.knightlab.com/) is a great activity to do after learning a bit of the basics. This is a straightforward, simple walkthrough that can help solve the problem, perfect for those who are familiar with the basics of SQL and need a hand. | |  
 
 # Patricio’s Guides
 As a lifelong educator I am committed to the principles of Open Educational Resources (OER) and strive to provide materials for teaching, learning, and research that are freely accessible, openly licensed, and can be used, changed, or shared by anyone. Projects found above will eventually be added to this section with detailed step-by-step documentation to help others develop their analytic toolkits.
