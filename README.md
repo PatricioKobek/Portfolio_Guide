@@ -23,7 +23,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | Date, Notes |
 |---|---|---|
-| :maple_leaf: [Canadian Liquid Natural Gas (LNG) Import and Export Trendes](https://github.com/PatricioKobek/DataAnalyticsProjects/blob/165017b99096ae6d435397f1ba0783358468d6a6/Canadian%20Liquid%20Natural%20Gas%20Trends) | I analyse the import and export of Canadian Liquid Natural Gas from 2009 to the present, providing a Tableau dashboard to visualize the trends in this important national sector. | April 2023|  
+| :maple_leaf: [Canadian Liquid Natural Gas (LNG) Import and Export Trendes](https://github.com/PatricioKobek/DataAnalyticsProjects/blob/e337ea475f07e1ad115a3c46b58c10c55a1dce42/Canadian%20Liquid%20Natural%20Gas%20Trends) | I analyse the import and export of Canadian Liquid Natural Gas from 2009 to the present, providing a Tableau dashboard to visualize the trends in this important national sector. | April 2023|  
 | :medical_symbol: [Covid-19 Worldwide Trends](https://github.com/PatricioKobek/DataAnalyticsProjects/blob/165017b99096ae6d435397f1ba0783358468d6a6/Covid-19%20Worldwide%20Vaccination,%20Infection,%20and%20Death%20by%20region) | This guided project and Tableau dashboard show the ongoing trends relating to Covid-19 infection rates, deaths, and vaccinations since the beginning of the pandemic with projections for the following year.| April 2023 | 
 
 ***
