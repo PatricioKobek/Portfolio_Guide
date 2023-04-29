@@ -4,7 +4,7 @@
 
 Welcome!
 
-This is my Portfolio Guide where I provide documentation to my data analytics projects and other relevant material. 
+This is my Portfolio Guide with documentation to my data analytics projects, technical writing samples, and other relevant material. 
 
 What follows is an ongoing work-in-progress. As I continue to work on a variety of data sets, I’ll be adding them here along with my own unique perspective on how to tackle each project, so be sure to check back often.
 
