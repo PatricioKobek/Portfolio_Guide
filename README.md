@@ -19,7 +19,7 @@ I’m always available to chat at [LinkedIn](https://www.linkedin.com/in/patrici
 
 # SQL
 
-Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation, data cleaning and validation.
+Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation, data cleaning and validation. Please see Technical Writing Samples below for a detailed analysis of each project.
 
 | Project Name | Description | Date, Notes |
 |---|---|---|
@@ -45,6 +45,7 @@ Technical writing is an important skill I strive to improve upon in order to pro
 
 | Project Name | Description | Notes |
 |---|---|---|
+| :maple_leaf: [Canadian Liquid Natural Gas (LNG) Import and Export Trends](https://github.com/PatricioKobek/technical-writing/blob/e6550d65859410a687c740fa0ba97cd0262a6c40/Technical%20Writing%20Sample__Patricio%20Kobek_Canadian%20LNG%20Imports%20and%20Exports.pdf) | A detailed writeup of the Canadian Liquified Natural Gas data analytics project. | | 
 | :skull: [SQL Murder Mystery](https://github.com/PatricioKobek/technical-writing/blob/0673126abf3bb4b944798204a17045f06d60dbf2/Technical%20Writing%20Sample__Patricio%20Kobek_SQL%20Murder%20Mystery.pdf) | The [SQL Murder Mystery]( https://mystery.knightlab.com/) is a great activity to do after learning a bit of the basics. This is a straightforward, simple walkthrough that can help solve the problem, perfect for those who are familiar with the basics of SQL and need a hand. | |  
 
 # Patricio’s Guides
