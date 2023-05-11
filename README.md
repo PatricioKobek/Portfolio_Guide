@@ -23,6 +23,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | Date, Notes |
 |---|---|---|
+| :credit_card: [Credit Card Analysis - Opportunity for Growth](https://github.com/PatricioKobek/technical-writing/blob/6c193c85f146a4fb69c1f311656d98b6146ad799/Technical%20Writing%20Sample__Patricio%20Kobek_Credit%20Card%20Report.pdf) | I examine the borrowing patterns and repayment history of a group of Taiwan consumers from 2005. SQL Code demonstrated data cleaning and validation, addressing a clear problem in the source data, and observations that lead to primary business recomendations. | May 2023| 
 | :maple_leaf: [Canadian Liquid Natural Gas (LNG) Import and Export Trendes](https://github.com/PatricioKobek/DataAnalyticsProjects/blob/e337ea475f07e1ad115a3c46b58c10c55a1dce42/Canadian%20Liquid%20Natural%20Gas%20Trends) | I analyse the import and export of Canadian Liquid Natural Gas from 2009 to the present, providing a Tableau dashboard to visualize the trends in this important national sector. | April 2023|  
 | :medical_symbol: [Covid-19 Worldwide Trends](https://github.com/PatricioKobek/DataAnalyticsProjects/blob/165017b99096ae6d435397f1ba0783358468d6a6/Covid-19%20Worldwide%20Vaccination,%20Infection,%20and%20Death%20by%20region) | This guided project and Tableau dashboard show the ongoing trends relating to Covid-19 infection rates, deaths, and vaccinations since the beginning of the pandemic with projections for the following year.| April 2023 | 
 
@@ -32,6 +33,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
+| :credit_card: [Credit Card Analysis - Opportunity for Growth](https://github.com/PatricioKobek/technical-writing/blob/6c193c85f146a4fb69c1f311656d98b6146ad799/Technical%20Writing%20Sample__Patricio%20Kobek_Credit%20Card%20Report.pdf) | A  Tableau chart is used here to highlight two major business recomendations for future growth. | May 2023| 
 | :maple_leaf: Canadian Liquid Natural Gas (LNG) Import and Export Trends | I analyse the import and export of Canadian Liquid Natural Gas from 2009 to the present, providing a Tableau dashboard to visualize the trends in this important national sector. | [Link]( https://public.tableau.com/views/CanadaLNG/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) |
 | :medical_symbol: Covid-19 Worldwide Trends | This guided project and Tableau dashboard show the ongoing trends relating to Covid-19 infection rates, deaths, and vaccinations since the beginning of the pandemic with projections for the following year. | [Link](https://public.tableau.com/views/PortfolioProject1_Covid/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) |
 | :bookmark: Canadian Students in Official Languages Programs | This XLSX file showcases briefly the number of Canadian students in official languages programs (Nationwide, Provincewide, Alberta decrease) from 2006 to 2020 | [Link](https://github.com/PatricioKobek/Canadian-students-in-official-languages-programs-2006-to-2020.git) |
@@ -45,6 +47,7 @@ Technical writing is an important skill I strive to improve upon in order to pro
 
 | Project Name | Description | Notes |
 |---|---|---|
+| :credit_card: [Credit Card Analysis - Opportunity for Growth](https://github.com/PatricioKobek/technical-writing/blob/6c193c85f146a4fb69c1f311656d98b6146ad799/Technical%20Writing%20Sample__Patricio%20Kobek_Credit%20Card%20Report.pdf) | A detailed explanation of how this dataset from 2005 yields key observations that are applicable today in the lending indsutry. Includes a Tableau chart and SQL Code. | May 2023| 
 | :maple_leaf: [Canadian Liquid Natural Gas (LNG) Import and Export Trends](https://github.com/PatricioKobek/technical-writing/blob/e6550d65859410a687c740fa0ba97cd0262a6c40/Technical%20Writing%20Sample__Patricio%20Kobek_Canadian%20LNG%20Imports%20and%20Exports.pdf) | A detailed writeup of the Canadian Liquified Natural Gas data analytics project. | | 
 | :skull: [SQL Murder Mystery](https://github.com/PatricioKobek/technical-writing/blob/0673126abf3bb4b944798204a17045f06d60dbf2/Technical%20Writing%20Sample__Patricio%20Kobek_SQL%20Murder%20Mystery.pdf) | The [SQL Murder Mystery]( https://mystery.knightlab.com/) is efficient practice for SQL code. This offers a step-by-step walkthrough to help solve the problem, perfect for those who are in need of a helping hand. | |  
 
